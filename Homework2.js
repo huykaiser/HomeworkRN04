@@ -32,7 +32,7 @@ const styles= StyleSheet.create({
     },
     box1:{
         flex:1,
-        backgroundColor:'#96CC96',
+        backgroundColor:'#A1c99A',
         alignItems: 'center',
         borderBottomLeftRadius: 20,
         borderBottomRightRadius: 20,
@@ -40,7 +40,7 @@ const styles= StyleSheet.create({
     },
     box2:{
         flex:1,
-        backgroundColor:'purple',
+        backgroundColor:'#c8c8fA',
         alignItems: 'center',
         borderTopLeftRadius: 20,
         borderTopRightRadius: 20,
@@ -52,14 +52,14 @@ const styles= StyleSheet.create({
     boxYellow:{
         height:110,
         width:350,
-        backgroundColor:'#F4B940',
+        backgroundColor:'#ffffc2',
         borderRadius:20,
         marginVertical:25,
     },
     boxBlue:{
         height:120,
         width:120,
-        backgroundColor:'#3D85C6',
+        backgroundColor:'#4f82c0',
         borderRadius:20,
         marginVertical:25,
         marginHorizontal:40,
